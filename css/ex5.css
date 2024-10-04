@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+/* Header Styling */
+
+header {
+    background-color: #f8f8f8;
+    padding: 10px 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand a {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li {
+    position: relative;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+
+.nav-links a:hover,
+.nav-links .active {
+    color: #00c7b7;
+    text-decoration: none;
+}
+
+.nav-links li span {
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+/*Gmail button*/
+.gmailButton {
+    display: inline-block;
+    background-color: #025750;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.gmailButton:hover {
+    background-color: #00c7b7;
+}
+
+/* Main Content Styling */
+main {
+    text-align: center;
+    background-color: bisque;
+    font-size: 35px;
+}
+
+main input{
+    font-size: 35px;
+}
