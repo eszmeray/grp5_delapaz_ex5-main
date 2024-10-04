@@ -19,7 +19,7 @@
 
 <body>
 
-    <!-- header -->pangit
+    <!-- header -->
     <?php include('header.php'); ?>
 
     <main>
