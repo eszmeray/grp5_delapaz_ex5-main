@@ -13,8 +13,6 @@
       <li><a href="#">Contact</a></li>
     </ul>
 
-    <a href="https://mail.google.com" class="gmailButton" target="_blank">Go to Gmail</a>
-
   </nav>
 </header>
 

@@ -63,20 +63,7 @@ header {
     margin-left: 5px;
 }
 
-/*Gmail button*/
-.gmailButton {
-    display: inline-block;
-    background-color: #025750;
-    color: white;
-    padding: 10px 15px;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-}
 
-.gmailButton:hover {
-    background-color: #00c7b7;
-}
 
 /* Main Content Styling */
 main {

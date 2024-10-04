@@ -19,6 +19,7 @@
 
 <body>
 
+    <!-- header -->
     <?php include('header.php'); ?>
 
     <main>
